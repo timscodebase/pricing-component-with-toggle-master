@@ -17,7 +17,7 @@ body {
   margin: 0;
 }
 
-.wrapper {
+main {
   font-size: 15px;
   font-family: 'Montserrat', sans-serif;
   background: var(--very-light-grayish-blue);
